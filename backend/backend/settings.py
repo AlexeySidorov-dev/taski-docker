@@ -1,3 +1,5 @@
+"""Settings priject."""
+
 import os
 from pathlib import Path
 
